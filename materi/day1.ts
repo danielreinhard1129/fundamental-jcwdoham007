@@ -150,3 +150,5 @@ const min: number = 12;
 const max: number = 20;
 
 console.log(Math.floor(Math.random() * (max - min + 1) + min));
+
+console.log("testtt");
