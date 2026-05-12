@@ -366,3 +366,22 @@ const test2 = () => {
   console.log("test2");
 };
 
+/* 
+    1. apa tujuan menggunakan pseudocode ? untuk menguraikan step by step dengan kata yg lebih mudah dipahami
+    2. primitive data types ada apa saja ?
+    3. apa kegunaan keyword var ? utk declare global variable
+    4. keuntungan menggunakan ts dari js ? type safety
+    5. apa perbedaan while dan do while ? kalo while dia bakalan cek dulu kondisinya, sedangkan do while bakalan melakukan do nya dulu sekali baru di cek kondisinya
+    6. typeof null hasilnya apa ?
+    7. apa itu hoisting ? apa aja yang termasuk hoisting
+    8. apa itu splice ? rumusnya bagaimana ? kalo misalnya splice(1,0,”halo”) ini artinya apa ? menambahkan kah atau delete kah atau edit ?
+    9. apa kegunaan this keyword dalam class / object ? referensi ke current object
+    10. hasilnya apa kalo Number(“55x”)
+    11. apa kegunaan method super dalam class ? memanggil parent constructor
+    12. apa benefit dari encapsulation dalam OOP ? improve data security
+    13. jelaskan mengenai push, pop, dan sort pada build in method array
+    14. kalau queue itu menggunakan konsep apa ?
+    15. kalo ada 1 for loop di big o itu notasinya apa ?
+
+*/
+
